@@ -2,7 +2,22 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../../../../../:\Users\user\Desktop\Proyectos\Laboratorios\IngesoftI-G4\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+=======
+/../../../../../../../../:\Users\Luigix17_Programmer\OneDrive\Documentos\GitHub\IngesoftI-G4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+#Idea Files
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+#Aditional files
+Laboratorio1-Github.iml
+WrongFile.txt
+>>>>>>> 3170ba34e79437d6c9882f018ff09ea4c6f710f4
